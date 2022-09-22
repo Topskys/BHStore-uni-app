@@ -1,4 +1,4 @@
-### BlackHorseShop_App
+### BHStore-uni-app 黑马商城
 
 #### 微信开发者工具打包
 HBX：打开manifest.json ---> 微信小程序配置 ---> 配置微信小程序AppID
